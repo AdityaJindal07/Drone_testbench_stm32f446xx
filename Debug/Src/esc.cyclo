@@ -1,0 +1,10 @@
+../Src/esc.c:26:13:ESC_FPU_Enable	1
+../Src/esc.c:33:16:ESC_IsUsable	1
+../Src/esc.c:42:6:ESC_DelayMs	3
+../Src/esc.c:59:9:ESC_Init	3
+../Src/esc.c:82:9:ESC_Start	2
+../Src/esc.c:92:9:ESC_SetPulseUs	5
+../Src/esc.c:111:9:ESC_SetThrottlePercent	3
+../Src/esc.c:125:9:ESC_Stop	1
+../Src/esc.c:130:10:ESC_GetPulseUs	2
+../Src/esc.c:135:9:ESC_Calibrate	8

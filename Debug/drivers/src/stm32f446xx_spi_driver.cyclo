@@ -1,0 +1,16 @@
+../drivers/src/stm32f446xx_spi_driver.c:66:16:SPI_IsValidPeripheral	5
+../drivers/src/stm32f446xx_spi_driver.c:84:6:SPI_PeriClockControl	7
+../drivers/src/stm32f446xx_spi_driver.c:121:6:SPI_PeripheralControl	3
+../drivers/src/stm32f446xx_spi_driver.c:146:6:SPI_SSIConfig	3
+../drivers/src/stm32f446xx_spi_driver.c:171:6:SPI_SSOEConfig	3
+../drivers/src/stm32f446xx_spi_driver.c:196:9:SPI_GetFlagStatus	3
+../drivers/src/stm32f446xx_spi_driver.c:222:16:SPI_WaitForFlag	5
+../drivers/src/stm32f446xx_spi_driver.c:258:16:SPI_WaitUntilNotBusy	1
+../drivers/src/stm32f446xx_spi_driver.c:272:6:SPI_Init	18
+../drivers/src/stm32f446xx_spi_driver.c:413:6:SPI_DeInit	5
+../drivers/src/stm32f446xx_spi_driver.c:443:16:SPI_WriteFrame	3
+../drivers/src/stm32f446xx_spi_driver.c:479:17:SPI_ReadFrame	2
+../drivers/src/stm32f446xx_spi_driver.c:502:9:SPI_SendData	13
+../drivers/src/stm32f446xx_spi_driver.c:594:9:SPI_ReceiveData	13
+../drivers/src/stm32f446xx_spi_driver.c:689:9:SPI_TransmitReceive	15
+../drivers/src/stm32f446xx_spi_driver.c:789:6:SPI_ClearOVRFlag	2

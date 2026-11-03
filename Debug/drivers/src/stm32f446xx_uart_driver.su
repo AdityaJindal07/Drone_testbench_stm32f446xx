@@ -1,0 +1,13 @@
+../drivers/src/stm32f446xx_uart_driver.c:63:16:USART_IsValidPeripheral	16	static
+../drivers/src/stm32f446xx_uart_driver.c:87:17:USART_GetPCLKFrequency	16	static
+../drivers/src/stm32f446xx_uart_driver.c:139:6:USART_PeriClockControl	16	static
+../drivers/src/stm32f446xx_uart_driver.c:181:6:USART_PeripheralControl	16	static
+../drivers/src/stm32f446xx_uart_driver.c:212:6:USART_Init	48	static
+../drivers/src/stm32f446xx_uart_driver.c:368:6:USART_DeInit	16	static
+../drivers/src/stm32f446xx_uart_driver.c:417:9:USART_GetFlagStatus	16	static
+../drivers/src/stm32f446xx_uart_driver.c:440:16:USART_WaitForFlag	24	static
+../drivers/src/stm32f446xx_uart_driver.c:473:13:USART_ClearErrorFlags	24	static
+../drivers/src/stm32f446xx_uart_driver.c:493:9:USART_SendByte	24	static
+../drivers/src/stm32f446xx_uart_driver.c:530:9:USART_SendData	32	static
+../drivers/src/stm32f446xx_uart_driver.c:578:9:USART_ReceiveByte	24	static
+../drivers/src/stm32f446xx_uart_driver.c:615:9:USART_ReceiveData	32	static

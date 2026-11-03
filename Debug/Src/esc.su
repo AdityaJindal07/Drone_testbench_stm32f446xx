@@ -1,0 +1,10 @@
+../Src/esc.c:26:13:ESC_FPU_Enable	4	static,ignoring_inline_asm
+../Src/esc.c:33:16:ESC_IsUsable	16	static
+../Src/esc.c:42:6:ESC_DelayMs	24	static
+../Src/esc.c:59:9:ESC_Init	16	static
+../Src/esc.c:82:9:ESC_Start	16	static
+../Src/esc.c:92:9:ESC_SetPulseUs	16	static
+../Src/esc.c:111:9:ESC_SetThrottlePercent	24	static
+../Src/esc.c:125:9:ESC_Stop	16	static
+../Src/esc.c:130:10:ESC_GetPulseUs	16	static
+../Src/esc.c:135:9:ESC_Calibrate	24	static
